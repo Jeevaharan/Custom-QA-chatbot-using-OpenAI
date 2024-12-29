@@ -1,5 +1,3 @@
-# LLM-QA-ChatBot
-
 # Job Assisting Chatbot
 
 This project involves the development of a **Job Assisting Chatbot** aimed at helping students identify suitable job roles within the university by matching their skills and experience to job requirements. The chatbot leverages the following technologies:
