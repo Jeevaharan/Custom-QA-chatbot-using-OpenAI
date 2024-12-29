@@ -10,7 +10,7 @@ This project involves the development of a **Job Assisting Chatbot** aimed at he
 - **Interactive Interface:** Provides a seamless user experience for students through Streamlit.
 
 ## Architecture
-![Project Architecture](RAG_Architecture.png)
+![Project Architecture](RAG_Architecture.webp)
 
 ## Key Technologies
 1. **OpenAI (gpt-3.5-turbo):** For natural language understanding and response generation.
