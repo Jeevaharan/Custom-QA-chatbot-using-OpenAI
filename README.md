@@ -9,6 +9,9 @@ This project involves the development of a **Job Assisting Chatbot** aimed at he
 - **Job Query Assistance:** Answers job-related queries with high accuracy using advanced prompting techniques.
 - **Interactive Interface:** Provides a seamless user experience for students through Streamlit.
 
+## Architecture
+![Project Architecture](RAG_Architecture.png)
+
 ## Key Technologies
 1. **OpenAI (gpt-3.5-turbo):** For natural language understanding and response generation.
 2. **Faiss:** Enables semantic search for job descriptions and student profiles.
